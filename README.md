@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hariselfian
 - 👀 I’m interested in Android
-- 🌱 I’m currently learning Kotlin Language
+- 🌱 I’m currently learning C# .Net Language
 - 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me WhatsApp +6282391091365
 
